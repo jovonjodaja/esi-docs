@@ -3,7 +3,7 @@
 ## Warp-in points
 
 ### Ordinary Objects
-An ordinary object is any object that does not fall withing any of the other categories described below.
+An ordinary object is any object that does not fall within any of the other categories described below.
 
 Let the 3D vectors $p_d$ and $p_s$ represent the object’s position and the warp’s origin, respectively; and $\vec{v}$ the directional vector from $p_s$ to $p_d$. Let $r$ be the object’s radius.
 
